@@ -9,3 +9,4 @@ a car, they are prometed with a game over screen and must flip the reset to play
 For more question about the implementation, please view the schematic attached title 
 Frogger-Schematic
 
+![Schematic for Frogger](https://user-images.githubusercontent.com/92423156/137084734-c0c383f0-43d5-4d00-ba01-068c45f58e5c.png)
